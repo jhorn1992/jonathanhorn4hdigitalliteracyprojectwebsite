@@ -207,4 +207,7 @@
         height: auto;
         border: 10px;
     }
+    p.centered_text_paragraph_full_page {
+        width: 90%;
+    }
 }
