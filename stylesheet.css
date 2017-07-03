@@ -96,7 +96,7 @@
     .paragraph_text_centered_full_page {
         margin: auto;
         padding: 10px;
-        max-width: 90%;
+        max-width: auto;
         height: auto;
         border: 10px;
     }
