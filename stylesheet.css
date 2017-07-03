@@ -209,7 +209,7 @@
     }
     p.centered_text_paragraph_full_page {
         margin: auto;
-        padding: 0;
+        padding: 10px;
         width: 90%;
     }
 }
