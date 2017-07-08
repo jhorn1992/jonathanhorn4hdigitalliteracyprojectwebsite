@@ -483,28 +483,26 @@
 /* Tablet (landscape) ----------- */
 @media only screen and (min-device-width: 481px) and (max-device-width: 767px) and (orientation: landscape) {
     ul {
-        list-style-type: none;
+        list-style: none;
         margin: 0;
         padding: 0;
         max-width: 100%;
         overflow: hidden;
+        text-align: center;
         background-color: black;
     }
-
-    li {
-        float: left;
+     li {
+        display: inline;
+        color: white;
     }
-
     li a {
-        display: block;
+        display: inline-block;
         color: darkgray;
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
         font-family: "Verdana", sans-serif;
     }
-
-    /* Change the link color to #111 (black) on hover */
     li a:hover {
         background-color: #111;
     }
@@ -583,28 +581,26 @@
 /* iPads (landscape) ----------- */
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
     ul {
-        list-style-type: none;
+        list-style: none;
         margin: 0;
         padding: 0;
         max-width: 100%;
         overflow: hidden;
+        text-align: center;
         background-color: black;
     }
-
     li {
-        float: left;
+        display: inline;
+        color: white;
     }
-
     li a {
-        display: block;
+        display: inline-block;
         color: darkgray;
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
         font-family: "Verdana", sans-serif;
     }
-
-    /* Change the link color to #111 (black) on hover */
     li a:hover {
         background-color: #111;
     }
@@ -779,28 +775,26 @@
 /* Desktops and laptops ----------- */
 @media only screen  and (min-width : 768px) {
     ul {
-        list-style-type: none;
+        list-style: none;
         margin: 0;
         padding: 0;
         max-width: 100%;
         overflow: hidden;
+        text-align: center;
         background-color: black;
     }
-
     li {
-        float: left;
+        display: inline;
+        color: white;
     }
-
     li a {
-        display: block;
+        display: inline-block;
         color: darkgray;
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
         font-family: "Verdana", sans-serif;
     }
-
-    /* Change the link color to #111 (black) on hover */
     li a:hover {
         background-color: #111;
     }
@@ -879,28 +873,26 @@
 /* Large screens ----------- */
 @media only screen  and (min-width : 1824px) {
     ul {
-        list-style-type: none;
+        list-style: none;
         margin: 0;
         padding: 0;
         max-width: 100%;
         overflow: hidden;
+        text-align: center;
         background-color: black;
     }
-
     li {
-        float: left;
+        display: inline;
+        color: white;
     }
-
     li a {
-        display: block;
+        display: inline-block;
         color: darkgray;
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
         font-family: "Verdana", sans-serif;
     }
-
-    /* Change the link color to #111 (black) on hover */
     li a:hover {
         background-color: #111;
     }
