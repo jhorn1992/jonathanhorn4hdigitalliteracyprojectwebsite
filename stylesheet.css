@@ -89,7 +89,7 @@
     }
 
     body {
-        width: calc(100vw-34px);
+        width: 100%;
         overflow-x: hidden;
         overflow-y: auto;
     }
@@ -186,7 +186,7 @@
     }
 
     body {
-        width: calc(100vw-34px);
+        width: 100%;
         overflow-x: hidden;
         overflow-y: auto;
     }
@@ -283,7 +283,7 @@
     }
 
     body {
-        width: calc(100vw-34px);
+        width: 100%;
         overflow-x: hidden;
         overflow-y: auto;
     }
@@ -380,7 +380,7 @@
     }
 
     body {
-        width: calc(100vw-34px);
+        width: 100%;
         overflow-x: hidden;
         overflow-y: auto;
     }
@@ -479,7 +479,7 @@
     }
 
     body {
-        width: calc(100vw-34px);
+        width: 100%;
         overflow-x: hidden;
         overflow-y: auto;
     }
@@ -578,7 +578,7 @@
     }
 
     body {
-        width: calc(100vw-34px);
+        width: 100%;
         overflow-x: hidden;
         overflow-y: auto;
     }
@@ -677,7 +677,7 @@
     }
 
     body {
-        width: calc(100vw-34px);
+        width: 100%;
         overflow-x: hidden;
         overflow-y: auto;
     }
@@ -774,7 +774,7 @@
     }
 
     body {
-        width: calc(100vw-34px);
+        width: 100%;
         overflow-x: hidden;
         overflow-y: auto;
     }
@@ -873,7 +873,7 @@
     }
 
     body {
-        width: calc(100vw-34px);
+        width: 100%;
         overflow-x: hidden;
         overflow-y: auto;
     }
@@ -972,7 +972,7 @@
     }
 
     body {
-        width: calc(100vw-34px);
+        width: 100%;
         overflow-x: hidden;
         overflow-y: auto;
     }
