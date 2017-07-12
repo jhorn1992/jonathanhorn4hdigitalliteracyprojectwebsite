@@ -90,7 +90,7 @@
 
     html {
         overflow-x: hidden;
-        overflow-y: auto;
+        overflow-y: scroll;
     }
 }
 
@@ -186,7 +186,7 @@
 
     html {
         overflow-x: hidden;
-        overflow-y: auto;
+        overflow-y: scroll;
     }
 }
 
@@ -282,7 +282,7 @@
 
     html {
         overflow-x: hidden;
-        overflow-y: auto;
+        overflow-y: scroll;
     }
 }
 
@@ -378,7 +378,7 @@
 
     html {
         overflow-x: hidden;
-        overflow-y: auto;
+        overflow-y: scroll;
     }
 }
 
@@ -476,7 +476,7 @@
 
     html {
         overflow-x: hidden;
-        overflow-y: auto;
+        overflow-y: scroll;
     }
 }
 
@@ -574,7 +574,7 @@
 
     html {
         overflow-x: hidden;
-        overflow-y: auto;
+        overflow-y: scroll;
     }
 }
 
@@ -672,7 +672,7 @@
 
     html {
         overflow-x: hidden;
-        overflow-y: auto;
+        overflow-y: scroll;
     }
 }
 
@@ -768,7 +768,7 @@
 
     html {
         overflow-x: hidden;
-        overflow-y: auto;
+        overflow-y: scroll;
     }
 }
 
@@ -866,7 +866,7 @@
 
     html {
         overflow-x: hidden;
-        overflow-y: auto;
+        overflow-y: scroll;
     }
 }
 
@@ -964,6 +964,6 @@
 
     html {
         overflow-x: hidden;
-        overflow-y: auto;
+        overflow-y: scroll;
     }
 }
